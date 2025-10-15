@@ -10,12 +10,12 @@ I hold a Ph.D. in Political Science and an M.S. in Statistics from Northwestern 
 # Research
 
 ### Publications
-Saab, Andrew. 2025. “[Conflict Relocation and Blood Diamond Policy Shifts](https://journals.sagepub.com/doi/10.1177/00223433241295838).” Journal of Peace Research.
+Saab, Andrew. 2025. “[Conflict Relocation and Blood Diamond Policy Shifts](https://journals.sagepub.com/doi/10.1177/00223433241295838).” _Journal of Peace Research_.
 
 ### Working Papers
-Sequential Voting, Deliberation, and Conformity: Evidence from FDA Advisory Committees (Resubmit, Political Behavior)
+Sequential Voting, Deliberation, and Conformity: Evidence from FDA Advisory Committees (Resubmit, _Political Behavior_)
 
-Fickle Loyalties: Intragroup Competition in Open List Elections (Resubmit, Electoral Studies)
+Fickle Loyalties: Intragroup Competition in Open List Elections (Resubmit, _Electoral Studies_)
 
 Action-Biased Majority Bias in Expert Committees (Under Review)
 
