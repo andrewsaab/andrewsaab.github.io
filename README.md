@@ -10,7 +10,7 @@ I hold a Ph.D. in Political Science and an M.S. in Statistics from Northwestern 
 # Research
 
 ### Publications
-Saab, Andrew. 2025. “Conflict Relocation and Blood Diamond Policy Shifts.” Journal of Peace Research.
+Saab, Andrew. 2025. “[Conflict Relocation and Blood Diamond Policy Shifts](https://journals.sagepub.com/doi/10.1177/00223433241295838).” Journal of Peace Research.
 
 ### Working Papers
 Sequential Voting, Deliberation, and Conformity: Evidence from FDA Advisory Committees (Resubmit, Political Behavior)
