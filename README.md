@@ -1,3 +1,17 @@
+<p align="center">
+  <img src="headshot_circle.png" alt="Headshot" width="200">
+</p>
+<p align="center">
+  <strong style="font-size:42px;">Andrew Saab</strong>
+</p>
+<p align="center">
+  Postdoctoral Research Fellow
+</p>
+<p align="center">
+  Kellogg School of Management
+</p>
+
+
 # About
 Welcome! I am a Postdoctoral Research Fellow at the [Kellogg School of Management](https://www.kellogg.northwestern.edu/), affiliated with the [Center for Science of Science & Innovation](https://www.kellogg.northwestern.edu/academics-research/science-of-science/) and the [Northwestern Innovation Institute](https://www.niinstitute.org/).
 
