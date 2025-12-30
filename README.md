@@ -22,7 +22,7 @@ Action-Biased Majority Bias in Expert Committees (Under Review)
 
 Linked Fate? Responses to Violence Across Conflict Fronts
 
-Beyond State Capacity: How Non-State Governance and Adjudication Influence Rebel and Criminal Rule (with Ana Arjona)
+Beyond State Capacity: How Non-State Governance and Adjudication Influence Rebel and Criminal Rule (_with Ana Arjona_)
 
 ### Works in Progress
 Expert Deliberations With Heterogenous Beliefs
