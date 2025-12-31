@@ -79,28 +79,32 @@ a:hover {
 }
 
 /* ================== Responsive Styles ================== */
-/* Tablet / small desktop: <= 860px */
+/* Tablet / small screens: <= 860px */
 @media (max-width: 860px) {
   .home-grid {
-    grid-template-columns: 1fr; /* stack sidebar on top */
+    display: grid !important;
+    grid-template-columns: 1fr !important;  /* stack sidebar and main content */
+    grid-template-rows: auto auto;          /* sidebar first, then main */
     gap: 1.5rem;
     padding: 0 1rem;
   }
 
   .sidebar {
+    grid-column: 1 / -1;  /* full width */
     text-align: center;
+  }
+
+  .main-content {
+    grid-column: 1 / -1;  /* full width */
+    width: 100%;
   }
 
   .sidebar .avatar {
     width: 160px;
   }
 
-  .main-content {
-    width: 100%;
-  }
-
   .main-content p {
-    text-align: left;
+    text-align: left;  /* keep paragraphs left-aligned for readability */
   }
 }
 
