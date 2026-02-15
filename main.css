@@ -60,9 +60,34 @@ body {
   color: #555;
 }
 
-.main-content h1, .main-content h2 {
+.main-content h1 {
   color: #2c3e50;
   margin-top: 1.5rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid #e5e5e5;
+}
+
+.main-content h2 {
+  color: #2c3e50;
+  margin-top: 1.5rem;
+}
+
+/* CV Button */
+.cv-link {
+  display: inline-block;
+  padding: 0.5rem 1.25rem;
+  background: #1e3a5f;
+  color: #fff !important;
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: 600;
+  font-size: 0.9rem;
+  transition: all 0.2s ease;
+}
+
+.cv-link:hover {
+  background: #2d5a87;
+  text-decoration: none;
 }
 
 ul {
